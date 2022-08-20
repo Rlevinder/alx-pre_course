@@ -1,2 +1,2 @@
-touch
-echo "" > 
+git add <filename> 
+
