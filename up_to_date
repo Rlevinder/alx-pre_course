@@ -1,2 +1,1 @@
-git add <filename> 
-
+git pull origin master
